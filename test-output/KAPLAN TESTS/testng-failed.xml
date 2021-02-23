@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KAPLAN TESTS]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="TEST RUN(failed)" verbose="2">
+    <parameter name="PlatformName" value="IOS"/>
+    <classes>
+      <class name="kaplan_tests.ListDemoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="list"/>
+        </methods>
+      </class> <!-- kaplan_tests.ListDemoTest -->
+    </classes>
+  </test> <!-- TEST RUN(failed) -->
+</suite> <!-- Failed suite [KAPLAN TESTS] -->
