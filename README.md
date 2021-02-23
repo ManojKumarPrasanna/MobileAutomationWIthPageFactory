@@ -2,12 +2,12 @@
 This project demonstrates Mobile Automation for both Android and iOS along with Page Factory Design Pattern.
 
 Pre-requisites and versions - 
-Node - v15.9.0
-NPM - 7.5.3
-Appium - 1.20.2
-Java - 9
-Android emulator used - pixel 2(9.0)
-iOS simulator used - iPhone 8(14.4)
+[Node - v15.9.0]
+[NPM - 7.5.3]
+[Appium - 1.20.2]
+[Java - 9]
+[Android emulator used - pixel 2(9.0)]
+[iOS simulator used - iPhone 8(14.4)]
 
 Please follow and make these changes in source files to seamless run of these tests. 
 1. Please make sure to install the app before running the tests
